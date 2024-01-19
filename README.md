@@ -6,4 +6,6 @@ Estoy haciendo pruebas
 [PHP] (https://www.php.net/)
 
 ##Estilos
-**Esto**está en negrita
+**Esto** está en negrita
+*Esto* está em cursiva
+***Esto*** está en negrita y cursiva
