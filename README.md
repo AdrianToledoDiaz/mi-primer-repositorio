@@ -7,5 +7,5 @@ Estoy haciendo pruebas
 
 ##Estilos
 **Esto** está en negrita
-*Esto* está em cursiva
+*Esto* está en cursiva
 ***Esto*** está en negrita y cursiva
